@@ -1,6 +1,6 @@
 Write a program to display the month of a year. Months of the year should be held in an array.
 
-
+
 
 import java.util.Calendar; 
 
